@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+.env
+dreams_history.csv
+dream_image.png
+__pycache__/
